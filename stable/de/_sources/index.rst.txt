@@ -1,0 +1,20 @@
+=====
+XNITY
+=====
+
+Official Documentation of XNITY Plugins.
+
+Content
+-------
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    vault/index
+
+Links
+-----
+-  `Website <https://xnity.net/>`_
+-  `GitHub <https://github.com/xnity/>`_
+-  `Spigot Plugins <https://www.spigotmc.org/resources/authors/kanoxx.200439/>`_

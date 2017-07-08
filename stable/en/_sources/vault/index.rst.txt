@@ -1,0 +1,22 @@
+=====
+Vault
+=====
+
+This is the documentation of the Vault plugin by kanoxx.
+
+Content
+-------
+
+.. toctree::
+    :maxdepth: 3
+    :titlesonly:
+
+    api/index
+
+Links
+-----
+-  `Vault on Spigot <https://www.spigotmc.org/resources/vault.41918/>`_
+-  `Source of the API <https://github.com/natrolite/vault-api/>`_
+-  `Source of the Implementation <https://github.com/natrolite/vault/>`_
+
+

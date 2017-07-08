@@ -1,0 +1,15 @@
+=============
+Using the API
+=============
+
+Here you will find everything you need no know about the Vault API.
+
+Content
+-------
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    getting/index
+    example/index

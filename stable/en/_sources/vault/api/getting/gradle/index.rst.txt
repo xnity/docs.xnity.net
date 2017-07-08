@@ -1,0 +1,19 @@
+======
+Gradle
+======
+
+To add VaultAPI to your project, add this to your build.gradle:
+
+.. code-block:: groovy
+
+    repositories {
+        mavenCentral()
+        maven {
+            name = 'natrolite-repo'
+            url = 'https://repo.natrolite.org/repository/maven-public/'
+        }
+    }
+
+    dependencies {
+        compileOnly group: 'org.natrolite', name: 'vault-api', version: '1.6.1'
+    }

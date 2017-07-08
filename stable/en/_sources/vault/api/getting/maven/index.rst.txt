@@ -1,0 +1,23 @@
+=====
+Maven
+=====
+
+To add VaultAPI to your project, add this to your pom.xml:
+
+.. code-block:: xml
+
+    <repositories>
+        <repository>
+            <id>natrolite-repo</id>
+            <url>https://repo.natrolite.org/repository/maven-public/</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.natrolite</groupId>
+            <artifactId>vault-api</artifactId>
+            <version>1.6.1</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
