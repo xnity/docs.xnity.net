@@ -1,0 +1,30 @@
+=====
+Staff
+=====
+
+Here you will find all members of XNITY listed in alphabetical order.
+
+
+Leaders
+-------
+
++------------+------------------------+
+| Name       | Role                   |
++============+========================+
+| conreptio  | Plugin Development     |
++------------+------------------------+
+| kanoxx     | Discord Manager        |
+|            |                        |
+|            | Plugin Development     |
+|            |                        |
+|            | Server Administration  |
+|            |                        |
+|            | Web Development        |
++------------+------------------------+
+
+
+
+You want to be here?
+~~~~~~~~~~~~~~~~~~~~
+
+Start contributing now!

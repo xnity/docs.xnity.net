@@ -8,10 +8,11 @@ Content
 -------
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :titlesonly:
 
     vault/index
+    about/index
 
 Links
 -----

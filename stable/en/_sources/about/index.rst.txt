@@ -1,0 +1,14 @@
+===========
+About XNITY
+===========
+
+Everything about XNITY.
+
+Content
+-------
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    staff/index

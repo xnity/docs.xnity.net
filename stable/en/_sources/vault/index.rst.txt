@@ -23,6 +23,7 @@ Content
 Links
 -----
 -  `Vault on Spigot <https://www.spigotmc.org/resources/vault.41918/>`_
+-  `Original by Sleaker <https://dev.bukkit.org/projects/vault/>`_
 -  `Source of the API <https://github.com/natrolite/vault-api/>`_
 -  `Source of the Implementation <https://github.com/natrolite/vault/>`_
 
