@@ -1,0 +1,10 @@
+============
+Requirements
+============
+
+Make sure Vault is compatible with your system:
+
+    1. Sun/Oracle JRE 7 or higher
+    2. Bukkit/Spigot/Paper 1.7.2 - 1.12
+
+Sponge will never be supported.

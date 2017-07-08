@@ -1,0 +1,11 @@
+============
+Installation
+============
+
+The installation of Vault is very easy:
+
+    1. If you have the old Vault installed, deinstall it first by removing the plugin JAR
+    2. Download the latest version of new the Vault and move the JAR file into your server's plugins directory
+    3. Start or reload your server​
+
+And you are done!

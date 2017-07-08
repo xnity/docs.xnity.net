@@ -4,6 +4,11 @@ Vault
 
 This is the documentation of the Vault plugin by kanoxx.
 
+Download
+--------
+
+You can download Vault for free on `SpigotMC.org <https://www.spigotmc.org/resources/vault.41918/history>`_.
+
 Content
 -------
 
@@ -11,6 +16,8 @@ Content
     :maxdepth: 3
     :titlesonly:
 
+    requirements
+    installation
     api/index
 
 Links
