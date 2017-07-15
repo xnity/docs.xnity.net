@@ -1,0 +1,14 @@
+=======
+Plugins
+=======
+
+Here you will find documentations of Bukkit Plugins.
+
+Content
+-------
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+
+    automaticinventory/index

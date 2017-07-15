@@ -2,7 +2,7 @@
 Using the API
 =============
 
-Here you will find everything you need no know about the Vault API.
+Here you will find everything you need to know about the Vault API.
 
 Content
 -------

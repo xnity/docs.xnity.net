@@ -1,0 +1,8 @@
+============
+Requirements
+============
+
+Make sure AutomaticInventory is compatible with your system:
+
+    1. Sun/Oracle JRE 8 or higher
+    2. Bukkit/Spigot/Paper 1.11.2

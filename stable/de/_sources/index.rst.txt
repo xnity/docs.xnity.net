@@ -11,6 +11,7 @@ Content
     :maxdepth: 1
     :titlesonly:
 
+    plugins/index
     vault/index
     about/index
 

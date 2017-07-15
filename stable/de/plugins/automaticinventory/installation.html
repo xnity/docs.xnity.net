@@ -6,19 +6,19 @@
   <meta charset="utf-8">
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Requirements &mdash; XNITY 1.0.0 Dokumentation</title>
+  <title>Installation &mdash; XNITY 1.0.0 Dokumentation</title>
 
-    <link rel="shortcut icon" href="../_static/favicon.ico"/>
-
-
+    <link rel="shortcut icon" href="../../_static/favicon.ico"/>
 
 
-    <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
 
-    <link rel="stylesheet" href="../_static/spongedocs.css" type="text/css" />
+
+    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+
+    <link rel="stylesheet" href="../../_static/spongedocs.css" type="text/css" />
 
         <link rel="index" title="Stichwortverzeichnis"
-              href="../genindex.html"/>        <link rel="search" title="Suche" href="../search.html"/>    <link rel="top" title="XNITY 1.0.0 Dokumentation" href="../index.html"/>        <link rel="up" title="Vault" href="index.html"/>        <link rel="next" title="Installation" href="installation.html"/>        <link rel="prev" title="Vault" href="index.html"/>
+              href="../../genindex.html"/>        <link rel="search" title="Suche" href="../../search.html"/>    <link rel="top" title="XNITY 1.0.0 Dokumentation" href="../../index.html"/>        <link rel="up" title="AutomaticInventory" href="index.html"/>        <link rel="next" title="Vault" href="../../vault/index.html"/>        <link rel="prev" title="Requirements" href="requirements.html"/>
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -28,7 +28,7 @@
         ga('send', 'pageview');
     </script>
 
-  <script src="../_static/js/modernizr.min.js"></script>
+  <script src="../../_static/js/modernizr.min.js"></script>
 
 </head>
 
@@ -40,7 +40,7 @@
       <div class="wy-side-scroll">
         <div class="wy-side-nav-search">
     <div id="sp-logo-container" class="page-scroll">
-        <a class="logo" href="../index.html">
+        <a class="logo" href="../../index.html">
             <span>XNITY</span>
             <i class="fa fa-fw fa-chevron-down"></i>
         </a>
@@ -54,7 +54,7 @@
     </div>
 
 <div role="search">
-  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
     <input type="hidden" name="check_keywords" value="yes" />
     <input type="hidden" name="area" value="default" />
@@ -63,14 +63,16 @@
 
         <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
                 <ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="../plugins/index.html">Plugins</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="index.html">Vault</a><ul class="current">
-<li class="toctree-l2 current"><a class="current reference internal" href="#">Requirements</a></li>
-<li class="toctree-l2"><a class="reference internal" href="installation.html">Installation</a></li>
-<li class="toctree-l2"><a class="reference internal" href="api/index.html">Using the API</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Plugins</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">AutomaticInventory</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="requirements.html">Requirements</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Installation</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="../about/index.html">About XNITY</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../vault/index.html">Vault</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/index.html">About XNITY</a></li>
 </ul>
 
         </div>
@@ -81,7 +83,7 @@
 
       <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
         <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="../index.html">XNITY</a>
+        <a href="../../index.html">XNITY</a>
       </nav>
 
 
@@ -92,34 +94,36 @@
 
 <div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href="../index.html">Docs</a> &raquo;</li>
-          <li><a href="index.html">Vault</a> &raquo;</li>
-    <li>Requirements</li>
+    <li><a href="../../index.html">Docs</a> &raquo;</li>
+          <li><a href="../index.html">Plugins</a> &raquo;</li>
+          <li><a href="index.html">AutomaticInventory</a> &raquo;</li>
+    <li>Installation</li>
       <li class="wy-breadcrumbs-aside">
-            <a href="https://github.com/xnity/xnity-docs/blob/master/source/vault/requirements.rst" class="fa fa-github"> Edit on GitHub</a>
+            <a href="https://github.com/xnity/xnity-docs/blob/master/source/plugins/automaticinventory/installation.rst" class="fa fa-github"> Edit on GitHub</a>
       </li>
   </ul>
   <hr/>
 </div>          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
-  <div class="section" id="requirements">
-<h1>Requirements<a class="headerlink" href="#requirements" title="Link zu dieser Überschrift">¶</a></h1>
-<p>Make sure Vault is compatible with your system:</p>
+  <div class="section" id="installation">
+<h1>Installation<a class="headerlink" href="#installation" title="Link zu dieser Überschrift">¶</a></h1>
+<p>The installation of AutomaticInventory is very easy:</p>
 <blockquote>
 <div><ol class="arabic simple">
-<li>Sun/Oracle JRE 7 or higher</li>
-<li>Bukkit/Spigot/Paper 1.7.2 - 1.12</li>
+<li>If you have an old version of AutomaticInventory installed, remove it first by deleting the plugin JAR</li>
+<li>Download the latest version of AutomaticInventory and move the JAR file into your server&#8217;s plugins directory</li>
+<li>Start or reload your server​</li>
 </ol>
 </div></blockquote>
-<p>Sponge will never be supported.</p>
+<p>And you are done!</p>
 </div>
 
            </div>
           </div>
 <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="installation.html" class="btn btn-neutral float-right" title="Installation" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
-        <a href="index.html" class="btn btn-neutral" title="Vault" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../../vault/index.html" class="btn btn-neutral float-right" title="Vault" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="requirements.html" class="btn btn-neutral" title="Requirements" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
     </div>
 
   <hr/>
@@ -141,7 +145,7 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
         <i class="fa fa-book"> <span>XNITY Docs</span></i>
         v: 1.0.0
-    <img src="../_static/flags/de_DE.svg"
+    <img src="../../_static/flags/de_DE.svg"
          alt="de" title="Deutsch">
         <span class="fa fa-caret-down"></span>
     </span>
@@ -149,10 +153,10 @@
 
             <dl id="languages">
                 <dt>Languages</dt>
-                        <dd><a href="/stable/en/vault/requirements.html">    <img src="../_static/flags/en.svg"
+                        <dd><a href="/stable/en/plugins/automaticinventory/installation.html">    <img src="../../_static/flags/en.svg"
          alt="en" title="English">
 </a></dd>
-                        <dd><a href="/stable/de/vault/requirements.html">    <img src="../_static/flags/de_DE.svg"
+                        <dd><a href="/stable/de/plugins/automaticinventory/installation.html">    <img src="../../_static/flags/de_DE.svg"
          alt="de" title="Deutsch">
 </a></dd>
             </dl>
@@ -160,33 +164,33 @@
             <dl>
                 <dt>Versions</dt>
                     <dd><a class="current"
-                            href="/stable/de/vault/requirements.html">stable</a></dd>
+                            href="/stable/de/plugins/automaticinventory/installation.html">stable</a></dd>
             </dl>
 
             <dl id="offline">
                 <dt>Offline usage</dt>
-                <dd><a href="../spongedocs-stable-de.zip">Download</a></dd>
+                <dd><a href="../../spongedocs-stable-de.zip">Download</a></dd>
             </dl>
 
             <dl>
                 <dt>Contribute</dt>
-                    <dd><a href="https://github.com/xnity/xnity-docs/blob/master/source/vault/requirements.rst">Source</a></dd>
-                    <dd><a href="https://github.com/xnity/xnity-docs/edit/master/source/vault/requirements.rst">Edit</a></dd>
+                    <dd><a href="https://github.com/xnity/xnity-docs/blob/master/source/plugins/automaticinventory/installation.rst">Source</a></dd>
+                    <dd><a href="https://github.com/xnity/xnity-docs/edit/master/source/plugins/automaticinventory/installation.rst">Edit</a></dd>
             </dl>
     </div>
 </div>
 
     <script type="text/javascript">
         var DOCUMENTATION_OPTIONS = {
-            URL_ROOT:'../',
+            URL_ROOT:'../../',
             VERSION:'1.0.0',
             COLLAPSE_INDEX:false,
             FILE_SUFFIX:'.html',
             HAS_SOURCE:  true
         };
-    </script>      <script type="text/javascript" src="../_static/jquery.js"></script>      <script type="text/javascript" src="../_static/underscore.js"></script>      <script type="text/javascript" src="../_static/doctools.js"></script>      <script type="text/javascript" src="../_static/translations.js"></script>      <script type="text/javascript" src="../_static/spongedocs.js"></script>
+    </script>      <script type="text/javascript" src="../../_static/jquery.js"></script>      <script type="text/javascript" src="../../_static/underscore.js"></script>      <script type="text/javascript" src="../../_static/doctools.js"></script>      <script type="text/javascript" src="../../_static/translations.js"></script>      <script type="text/javascript" src="../../_static/spongedocs.js"></script>
 
-    <script type="text/javascript" src="../_static/js/theme.js"></script>
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
 
   <script type="text/javascript">
       jQuery(function () {

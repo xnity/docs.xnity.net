@@ -1,0 +1,11 @@
+============
+Installation
+============
+
+The installation of AutomaticInventory is very easy:
+
+    1. If you have an old version of AutomaticInventory installed, remove it first by deleting the plugin JAR
+    2. Download the latest version of AutomaticInventory and move the JAR file into your server's plugins directory
+    3. Start or reload your server​
+
+And you are done!

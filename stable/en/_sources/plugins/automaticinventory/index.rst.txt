@@ -1,0 +1,25 @@
+==================
+AutomaticInventory
+==================
+
+This is the official documentation of AutomaticInventory.
+
+Download
+--------
+
+You can download AutomaticInventory for free on `SpigotMC.org <https://www.spigotmc.org/resources/automaticinventory.34523/history>`_.
+
+Content
+-------
+
+.. toctree::
+    :maxdepth: 3
+    :titlesonly:
+
+    requirements
+    installation
+
+Links
+-----
+-  `AutomaticInventory on Spigot <https://www.spigotmc.org/resources/automaticinventory.34523/>`_
+-  `Source Code <https://github.com/xnity/automatic-inventory/>`_
